@@ -1,0 +1,19 @@
+{
+  "name": "provide-serverless-chrome",
+  "description": "provide serverless chrome for lambda handler",
+  "version": "1.0.0",
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "keywords": [
+    "serverless",
+    "chrome",
+    "lambda"
+  ],
+  "repository": "https://github.com/zhaoyao91/provide-serverless-chrome.git",
+  "license": "MIT",
+  "devDependencies": {
+    "chrome-launcher": "^0.9.0"
+  },
+  "dependencies": {
+    "@serverless-chrome/lambda": "^1.0.0-29"
+  }
+}
